@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "sunpy",
+  "repo": "sunpy-integration-testing",
+  "versions": [
+    {
+      "commit": "8f39d77fd7e0c31c65ad43630b3b42423305aee0",
+      "parsed_at": "2026-11-07T00:56:57.710924+00:00",
+      "filetree": "filetree/8f39d77fd7e0c31c65ad43630b3b42423305aee0.nq.gz",
+      "blobs": [
+        "blob/c765c24e524a5ef9a4caaf41d20ff5698d2bc835.nq.gz",
+        "blob/3d78fa06406d1850f81f745cc615a4e854a32447.nq.gz",
+        "blob/d581eb97ca5cbcf12d651eb7b4e1e0af237fd45f.nq.gz",
+        "blob/40d95d374340eb42f97ecaf8e218548b27b05e24.nq.gz",
+        "blob/7417a4fa28bb804c04c7e0f7d250c29b281372f3.nq.gz",
+        "blob/acb4e3eb8a20bab4351e200a05bcf7d94460cfc5.nq.gz",
+        "blob/4e840617024ca81d8748e2c4bbf56d216c2bfff6.nq.gz",
+        "blob/cab1acc713b9d2ce6450e82e7f4b4c868e85dd1f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
