@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sunpy/sunpy-integration-testing/commit/8f39d77fd7e0c31c65ad43630b3b42423305aee0",
       "git:hexsha": "8f39d77fd7e0c31c65ad43630b3b42423305aee0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
